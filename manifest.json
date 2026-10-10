@@ -1,0 +1,10 @@
+{
+  "name": "NhxDayLength",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "Private mod: set how many minutes of day and of night the day/night cycle has. Not published on Thunderstore.",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.2202",
+    "ValheimModding-Jotunn-2.30.2"
+  ]
+}
